@@ -8,5 +8,5 @@
 
 ## cara hosting di shared hosting
 ```
-    https://dev.to/husnain/how-to-deploy-node-or-react-app-on-cpanel-which-uses-a-port-using-ssh-a5b
+https://dev.to/husnain/how-to-deploy-node-or-react-app-on-cpanel-which-uses-a-port-using-ssh-a5b
 ```
